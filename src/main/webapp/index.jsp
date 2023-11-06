@@ -3,7 +3,7 @@
 <title>Hello team - this is integartion of jenkins and ansible</title>
 </head>
 <body>
-	<h1>Hello team - this is integartion of jenkins and ansible!</h1>
+	<h1>Hello team - this is integartion of jenkins and tomcat!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
